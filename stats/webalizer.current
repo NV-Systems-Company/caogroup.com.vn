@@ -1,0 +1,1305 @@
+# Webalizer V2.23-05 Incremental Data - 08/20/2021 04:47:29
+2021 8 20 4 47 29
+4884 4580 131 313 33 35 171832657 2805 165 0
+12 16 1059 1 20
+13 10 247782 11 11 10
+13 9 245463 10 13 10
+89 83 5417290 13 19 13
+53 43 2768851 9 10 8
+11 6 127645 7 11 7
+69 62 3073446 18 22 18
+13 11 278699 10 12 11
+19 14 156870 5 6 4
+41 39 2615436 4 6 4
+182 104 4073420 7 137 7
+122 118 8077484 9 16 9
+84 83 6552900 4 11 4
+80 76 5261539 7 11 7
+80 76 5257119 6 11 6
+5 3 416570 4 3 3
+3 2 30683 2 3 2
+5 3 4653 2 4 2
+52 47 4383333 9 12 8
+3665 3510 101655282 21 2325 26
+285 281 21188192 12 162 8
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+227 218 14735347 128
+95 90 6934949 15
+37 35 2019798 28
+18 17 1622690 12
+25 23 1774539 16
+6 5 92066 5
+44 40 2704972 9
+40 38 2674288 5
+14 8 513532 12
+54 54 4062565 13
+43 42 2674501 7
+41 38 2676786 7
+13 6 130487 6
+2 0 2319 2
+11 8 153648 10
+76 73 5259204 8
+5 4 122732 5
+99 90 5425644 19
+176 105 4944557 133
+480 452 14103635 289
+977 921 31399713 876
+842 821 29527197 599
+1145 1111 27887227 315
+414 381 10390261 286
+0
+0
+0
+4580
+0
+0
+0
+0
+0
+0
+0
+239
+4
+0
+0
+0
+0
+27
+0
+0
+0
+17
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+17
+0
+0
+0
+0
+0
+# -urls- 
+/themes/admin_default/images/icons/bad.png
+1 1 13725648 4166 0 0
+/themes/admin_default/js/news_content.js
+0 1 13725120 3713 0 0
+/themes/admin_default/js/themes.js
+0 1 13599008 2719 0 0
+/uploads/home/slider/banner-info.jpg
+1 21 3329065233166630912 5253591 0 0
+/assets/shops/2021_01/z2302106249398_55ad7e89527b6e9bb6494ca15a0f5b39.jpg
+1 1 13714528 444762 0 0
+/assets/editors/ckeditor/nv.css
+0 2 13603920 598 0 0
+/uploads/home/slider/banner-du-thuyen1.jpg
+1 2 13706784 952498 0 0
+/test/rss/catalog/notifystock/
+0 1 3615883862963453952 1846 0 0
+/assets/js/cropper/cropper.min.js
+0 1 13690144 9222 0 0
+/uploads/home/slider/doitac2.jpg
+1 46 3328502283213209600 1512250 0 0
+/sitemap.xml
+0 1 0 285 0 0
+/assets/home/slider/nha-dat-cho-thue.jpg
+1 1 13693408 7759 0 0
+/assets/home/slider/icon-thi-cong-giam-sat.png
+1 1 13692176 5522 0 0
+/assets/editors/ckeditor/plugins/copyformatting/styles/copyformatting.css
+0 2 13602960 1325 0 0
+/assets/news/2021_04/name-card-05.png
+1 32 3328502283213209600 13181312 0 0
+/themes/admin_default/js/shops.js
+0 2 13703184 9160 0 0
+/themes/admin_default/css/upload.css
+0 1 13689504 2131 0 0
+/install/images/top_bg.png
+1 1 13682256 366 0 0
+/uploads/home/slider/su-menh.jpg
+1 21 8026310012822171240 1343664 0 0
+/assets/js/jquery/jquery.flash.js
+0 1 13690016 1124 0 0
+/assets/editors/ckeditor/ckeditor.js
+0 2 13600064 436662 0 0
+/assets/shops/2021_01/z2302105878920_88cec2ca4339c0c7f051675d2360ba23.jpg
+1 1 13713824 572911 0 0
+/assets/js/jquery/jquery.timeago.js
+0 2 13596992 4172 0 0
+/themes/admin_default/css/webtools.css
+0 1 13607328 223 0 0
+/themes/admin_default/css/news.css
+0 2 13709568 3526 0 0
+/assets/home/slider/tam-nhin.jpg
+1 1 13693680 55319 0 0
+/themes/caomarinagroup/css/style.css
+0 50 3832056636507043380 454450 0 0
+/assets/home/slider/slide1.jpg
+1 1 13696592 46218 0 0
+/assets/shops/2021_01/z2302105865757_0431e85bcb68e0d7fe7a587d6e7e1394.jpg
+1 1 13714704 443822 0 0
+/uploads/home/slider/banner-bat-dong-san_1.jpg
+1 1 13709152 591302 0 0
+/assets/home/slider/duthuyen-bnner.jpg
+1 1 13694912 80218 0 0
+/themes/admin_default/js/webtools.js
+0 1 13607200 572 0 0
+/install/css/reset.css
+0 1 13608016 537 0 0
+/assets/shops/2021_01/z2302106025049_0d9e05ab5fc6579735b7695f6f2776b2.jpg
+1 1 13712944 409010 0 0
+/uploads/home/slider/bat-dong-san-nghi-duong.jpg
+1 1 13707824 6205 0 0
+/assets/images/calendar.gif
+1 2 13703600 538 0 0
+/assets/home/slider/gia-tri-cot-loi.jpg
+1 1 13693952 53339 0 0
+/assets/home/slider/duthuyen_2.jpg
+1 1 13695040 260471 0 0
+/assets/js/language/vi.js
+0 49 417128989185 120323 0 0
+/assets/editors/ckeditor/plugins/eqneditor/codecogs/eq_editor-lite-17.js
+0 2 13603472 18180 0 0
+/assets/editors/ckeditor/config.js
+0 2 13600192 1818 0 0
+/assets/home/slider/doitac2.jpg
+1 1 13696192 32875 0 0
+/assets/shops/2015_05/giay-bup-be-ngoi-sao-nhap-khau.jpg
+1 27 0 147636 0 0
+/assets/js/jquery/jquery.slimscroll.min.js
+0 2 13597120 3778 0 0
+/assets/editors/ckeditor/plugins/tbvdownload/plugin.js
+0 2 13600864 758 0 0
+/assets/editors/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js
+0 2 13604368 24576 0 0
+/rss/order/new/
+0 1 0 3545 0 0
+/assets/home/slider/su-menh.jpg
+1 1 13693552 63984 0 0
+/assets/shops/2021_01/z2302106142337_bd431ad7b64f65a266d7e997a04370fb.jpg
+1 1 13712240 334274 0 0
+/themes/default/js/bootstrap.min.js
+0 2 13596864 18564 0 0
+/assets/shops/2021_01/z2302294109629_ff0f89d3a261890f4558508626aa6449.jpg
+1 1 13714000 629175 0 0
+/assets/editors/ckeditor/plugins/cleanlink/lang/vi.js
+0 2 13601904 1452 0 0
+/assets/js/jquery/jquery.treeview.min.js
+0 1 13690544 1453 0 0
+/uploads/home/slider/doitac6.jpg
+1 46 0 1488284 0 0
+/themes/caomarinagroup/js/shops.js
+0 26 13704512 98930 0 0
+/install/images/vinades.png
+1 1 13683904 544 0 0
+/assets/home/slider/doitac4.jpg
+1 1 13695808 28434 0 0
+/assets/js/jquery/images/treeview-default-line.gif
+1 1 13691600 10486 0 0
+/assets/editors/ckeditor/plugins/codesnippet/lib/highlight/styles/github.css
+0 2 13604784 1266 0 0
+/shop/rss/catalog/review/
+0 1 0 1848 0 0
+/assets/home/slider/hinh.jpg
+1 1 13697120 10059 0 0
+/assets/shops/2021_01/z2302106054409_081b48d4b08f9bd592e4341eaf4eac7f.jpg
+1 1 13711712 539427 0 0
+/test/rss/catalog/review/
+0 1 0 1846 0 0
+/install/images/button_left_corner.png
+1 1 13683648 397 0 0
+/uploads/home/slider/icon-thi-cong-giam-sat.png
+1 2 13705632 11044 0 0
+/assets/home/slider/banner-trang-chu.jpg
+1 1 13694080 114095 0 0
+/install/images/button_right_back_corner.png
+1 1 13684032 926 0 0
+/assets/home/slider/w6.png
+1 1 13696720 1910 0 0
+/themes/admin_default/js/upload.js
+0 1 13689888 1185 0 0
+/assets/home/slider/banner-bat-dong-san.jpg
+1 1 13694224 114125 0 0
+/assets/kien-truc-tam-linh/2021_05/4ozldv6.jpg
+1 2 13706208 139856 0 0
+/uploads/home/slider/cam-ket-bao-hanh.jpg
+1 2 13706064 13396 0 0
+/assets/editors/ckeditor/plugins/tableselection/styles/tableselection.css
+0 2 13601728 926 0 0
+/uploads/home/slider/doitac1.jpg
+1 46 0 1068396 0 0
+/assets/js/jquery/jQueryRotate.js
+0 1 13690272 3528 0 0
+/uploads/home/slider/kentructamlinh.jpg
+1 21 0 8788101 0 0
+/assets/shops/2021_01/z2302294105838_7d202ef166628c72a2767871f8864b32.jpg
+1 1 13711232 548686 0 0
+/uploads/logo-cao-group.png
+1 121 0 3410506 0 0
+/assets/news/2021_04/2-1.jpg
+1 21 0 746382 0 0
+/assets/shops/2021_01/ab9b1bc02602d85c811313.jpg
+1 1 13710656 70511 0 0
+/assets/editors/ckeditor/plugins/eqneditor/codecogs/eq_config.js
+0 2 0 702 0 0
+/assets/home/slider/banner-info.jpg
+1 1 13696320 100888 0 0
+/assets/shops/2021_01/z2302294085710_623ae9a87855705a9a21ad06f93626f3.jpg
+1 1 13712416 539398 0 0
+/themes/admin_default/images/bg_left.png
+1 2 13597952 35504 0 0
+/assets/editors/ckeditor/skins/moono/icons.png
+1 2 13603648 34610 0 0
+/themes/admin_default/js/content.js
+0 1 13703312 1177 0 0
+/assets/home/slider/du-thuyen.jpg
+1 1 13697648 271114 0 0
+/assets/js/select2/i18n/vi.js
+0 2 13709696 964 0 0
+/assets/home/slider/bds_2.jpg
+1 1 13695552 294062 0 0
+/assets/editors/ckeditor/plugins/autosave/js/extensions.min.js
+0 2 0 143268 0 0
+/assets/js/select2/select2.min.css
+0 2 13606688 4159 0 0
+/assets/shops/2021_01/dc11c76cfaae04f05dbf16.jpg
+1 1 13710512 123051 0 0
+/install/js/main.js
+0 1 13607568 1011 0 0
+/shops/Giay-bup-be/GIAY-BUP-BE-NGOI-SAO-NHAP-KHAU.html
+0 2 13703888 32684 0 0
+/uploads/home/slider/icon-cam-ket-bao-hanh.png
+1 2 13705920 11608 0 0
+/install/css/style.css
+0 1 13607904 2081 0 0
+/themes/admin_default/css/login.css
+0 3 13591424 2601 0 0
+/themes/default/css/bootstrap.min.css
+0 3 13591296 55734 0 0
+/assets/js/global.js
+0 53 0 245630 0 0
+/themes/caomarinagroup/js/main.js
+0 49 0 305025 0 0
+/rss/catalog/review/
+0 1 0 3550 0 0
+/assets/editors/ckeditor/plugins/eqneditor/lang/vi.js
+0 2 13602192 298 0 0
+/themes/caomarinagroup/css/news.css
+0 2 13705136 3242 0 0
+/assets/editors/ckeditor/plugins/eqneditor/plugin.js
+0 2 13601152 2376 0 0
+/themes/caomarinagroup/css/shops.css
+0 27 13704144 42177 0 0
+/assets/editors/ckeditor/plugins/googledocs/lang/vi.js
+0 2 13602336 996 0 0
+/themes/caomarinagroup/js/news.js
+0 2 13705360 2532 0 0
+/favicon.ico
+0 4 13591680 4600 0 0
+/assets/js/language/jquery.timeago-vi.js
+0 2 13597264 569 0 0
+/install/images/button_center_bg.png
+1 1 13683248 161 0 0
+/themes/caomarinagroup/css/bootstrap.min.css.map
+0 12 13599808 7757184 0 0
+/themes/default/images/icons/new.gif
+1 1 13709952 1491 0 0
+/store/rss/catalog/review/
+0 1 0 1846 0 0
+/assets/shops/2021_01/z2302294106081_75460fcf5876dbf62992e2b1d104fa13.jpg
+1 1 13713472 650169 0 0
+/themes/admin_default/js/main.js
+0 2 13597408 3194 0 0
+/assets/shops/2021_01/trang.jpg
+1 1 13711408 583417 0 0
+/uploads/home/slider/nha-dat-cho-thue.jpg
+1 1 13707968 7759 0 0
+/assets/fonts/fontawesome-webfont.woff2
+0 46 0 3549360 0 0
+/uploads/shops/2015_05/giay-bup-be-ngoi-sao-nhap-khau.jpg
+1 8 0 1052376 0 0
+/assets/js/jquery/jquery.lazyload.min.js
+0 1 13690400 1296 0 0
+/install/images/navigate.png
+1 1 13682128 1089 0 0
+/assets/home/slider/s2.jpg
+1 1 13697520 5059 0 0
+/assets/home/slider/san-pham-da-dang.jpg
+1 1 13692720 5327 0 0
+/install/images/outgroup.png
+1 1 13689248 4397 0 0
+/themes/admin_default/js/users.js
+0 1 13598240 6166 0 0
+/assets/editors/ckeditor/plugins/cleanlink/icons/cleanlink.png
+1 2 0 6990 0 0
+/themes/admin_default/css/themes.css
+0 1 13599136 1491 0 0
+/assets/editors/ckeditor/plugins/video/lang/vi.js
+0 2 13601584 954 0 0
+/assets/bat-dong-san/2021_04/a9003-aqua-city-lake-villa-vie-8278-1742-1583077520_1200x0.jpg
+1 1 13708672 334136 0 0
+/install/images/left_bg.png
+1 1 13682624 121 0 0
+/assets/shops/2021_01/b6de56d36b11954fcc0015.jpg
+1 1 13710224 65095 0 0
+/shops/ban/sp-demo-20.html
+0 11 13730528 426514 4 0
+/admin/
+0 1454 13582480 17631200 7 4
+/themes/admin_default/js/login.js
+0 3 13582592 4596 0 0
+/assets/editors/ckeditor/plugins/autosave/css/autosave.min.css
+0 2 0 1296 0 0
+/assets/shops/2021_01/d75bea07d7c5299b70d412.jpg
+1 1 13711088 108126 0 0
+/assets/home/slider/banner-bds.jpg
+1 1 13695680 100363 0 0
+/assets/js/jquery/images/folder-closed.gif
+1 1 13691456 105 0 0
+/assets/home/slider/banner-bat-dong-san_1.jpg
+1 1 13694624 87400 0 0
+/themes/caomarinagroup/css/bootstrap.min.css
+0 50 0 987550 0 0
+/assets/editors/ckeditor/plugins/dialog/styles/dialog.css
+0 2 0 312 0 0
+/assets/editors/ckeditor/skins/moono/images/close.png
+1 1 13698160 869 0 0
+/themes/admin_default/js/block_content.js
+0 1 13599408 1573 0 0
+/assets/js/jquery-ui/jquery-ui.min.css
+0 2 13599552 15208 0 0
+/install/images/logo.png
+1 1 13682496 1538 0 0
+/install/images/bg_header.jpg
+1 1 13682992 1868 0 0
+/assets/kien-truc-tam-linh/2021_05/38.png
+1 2 13707072 1997402 0 0
+/themes/default/images/shops/jquery.ez-plus.js
+0 2 13714880 25698 0 0
+/assets/shops/2021_01/3b139c04a1c65f9806d717.jpg
+1 1 13710368 48767 0 0
+/install/images/button_right_next_corner.png
+1 1 13683376 934 0 0
+/uploads/home/slider/doitac4.jpg
+1 46 0 1307964 0 0
+/assets/kien-truc-tam-linh/2021_05/35_1.png
+1 2 13706928 1927438 0 0
+/assets/home/slider/icon-thiet-ke-kien-truc.png
+1 1 13692032 5459 0 0
+/assets/home/slider/s3.jpg
+1 1 13697248 4460 0 0
+/themes/caomarinagroup/css/admin.css
+0 28 13598752 33768 0 0
+/staging/rss/order/new/
+0 1 0 1846 0 0
+/assets/home/slider/s1.jpg
+1 1 13697776 4639 0 0
+/assets/js/admin.js
+0 27 13596256 32942 0 0
+/install/check.rewrite
+0 14 0 238 0 0
+/themes/admin_default/js/modules.js
+0 1 13605904 2118 0 0
+/store/rss/order/new/
+0 1 0 1846 0 0
+/install/images/pending.png
+1 1 13688992 3542 0 0
+/themes/caomarinagroup/js/custom.js
+0 47 0 12079 0 0
+/shops/cart/
+0 8 13715392 240735 0 0
+/assets/editors/ckeditor/plugins/tbvdownload/icons/tbvdownload.png
+1 2 0 6494 0 0
+/assets/js/jquery/images/treeview-default.gif
+1 1 13691744 1222 0 0
+/rss/catalog/notifystock/
+0 1 0 3555 0 0
+/themes/default/images/no_image.gif
+1 1 13606304 4794 0 0
+/assets/editors/ckeditor/plugins/tbvdownload/lang/vi.js
+0 2 13602048 1858 0 0
+/assets/shops/2021_01/z2302294096605_e6b00dd7506b7688a97ba351990fea27.jpg
+1 1 13712064 531347 0 0
+/assets/home/slider/ho-tro-chuyen-nghiep.jpg
+1 1 13692864 5294 0 0
+/uploads/home/slider/du-thuyen.jpg
+1 21 0 5693394 0 0
+/install/images/pass_step_icon.png
+1 1 13684176 467 0 0
+/assets/kien-truc-tam-linh/2021_05/32.png
+1 2 13707216 2149976 0 0
+/assets/home/slider/landmark81banner.jpg
+1 1 13696448 131614 0 0
+/assets/js/plupload/plupload.full.min.js
+0 1 13690688 39073 0 0
+/uploads/home/slider/tin_dung_xanh_avgg.jpg
+1 21 0 759066 0 0
+/assets/shops/2021_01/z2302105877878_292cf2952278871e140c7dbb7cb75954.jpg
+1 1 13713648 485967 0 0
+/assets/js/jquery/images/folder.gif
+1 1 13691200 106 0 0
+/themes/admin_default/js/settings.js
+0 2 13606432 3349 0 0
+/themes/admin_default/css/extensions.css
+0 2 13606160 1359 0 0
+/assets/editors/ckeditor/contents.css
+0 2 13604544 2440 0 0
+/themes/admin_default/js/extensions.js
+0 2 13606032 3272 0 0
+/themes/caomarinagroup/js/contact.js
+0 1 13707696 1295 0 0
+/assets/home/slider/dich-vu-nha-dat.jpg
+1 1 13693152 7130 0 0
+/themes/admin_default/images/home/no_photo.png
+1 1 13599920 3354 0 0
+/assets/editors/ckeditor/plugins/switchbar/plugin.js
+0 2 13601008 1324 0 0
+/themes/admin_default/css/shops.css
+0 2 13703056 3228 0 0
+/uploads/home/slider/dich-vu-nha-dat.jpg
+1 1 13708240 7130 0 0
+/assets/shops/2021_01/z2302294087669_ef5cedb921ded43eaff51e6a5c5270e5.jpg
+1 1 13711888 541627 0 0
+/store/rss/catalog/notifystock/
+0 1 0 1846 0 0
+/assets/js/jquery-ui/jquery-ui.min.js
+0 2 13598880 135500 0 0
+/assets/js/cropper/cropper.min.css
+0 1 13689760 1266 0 0
+/assets/shops/2021_01/z2302294097569_ebf8a605935b53ca7f73348cde333f39.jpg
+1 1 13714176 633857 0 0
+/assets/js/language/jquery.ui.datepicker-vi.js
+0 2 13599264 1102 0 0
+/themes/caomarinagroup/css/owl.carousel.css
+0 49 0 57820 0 0
+/assets/shops/2021_01/z2302106038598_3b67dec1a6591add09b9adac0b8f7658.jpg
+1 1 13711536 402719 0 0
+/install/update.php
+0 21 13607456 3713856 1 0
+/assets/js/upload.js
+0 1 13691088 18014 0 0
+/themes/admin_default/images/icons/comment.png
+1 1 13724688 367 0 0
+/install/js/update.js
+0 1 13607792 2011 0 0
+/themes/admin_default/css/settings.css
+0 2 13606560 604 0 0
+/assets/js/jquery/jquery.cookie.js
+0 1 13724992 1176 0 0
+/themes/admin_default/css/siteinfo.css
+0 2 13596464 1266 0 0
+/install/images/load.gif
+1 1 13689120 1077 0 0
+/assets/home/slider/doitac6.jpg
+1 1 13695168 32354 0 0
+/themes/caomarinagroup/images/footer-bg.png
+1 46 0 809002 0 0
+/assets/editors/ckeditor/skins/moono/editor.css
+0 2 13600320 10911 0 0
+/themes/caomarinagroup/css/owl.theme.default.css
+0 49 0 31360 0 0
+/assets/editors/ckeditor/plugins/cleanlink/plugin.js
+0 2 13601296 470 0 0
+/assets/home/slider/image003.jpg
+1 1 13694496 5893 0 0
+/uploads/home/slider/gia-tri-cot-loi.jpg
+1 21 3687662163887732019 1120119 0 0
+/assets/home/slider/nha-dat.jpg
+1 1 13693280 6366 0 0
+/assets/shops/2021_01/z2302294076859_7f7e01e82184ad1c57e84cdb7e4caaba.jpg
+1 1 13713296 495673 0 0
+/assets/images/banner_nukeviet_88x15.jpg
+1 2 13598096 25154 0 0
+/xay-dung/
+0 19 13705024 984493 0 0
+/uploads/news/2021_04/name-card-05.png
+1 1 13725520 379143 0 0
+/assets/shops/2021_01/z2302294092952_02029103b9cf5518b295c6acc49eedfa.jpg
+1 1 13712592 504728 0 0
+/themes/admin_default/js/menu.js
+0 1 13709440 1705 0 0
+/assets/home/slider/banner-du-thuyen1.jpg
+1 1 13694768 64414 0 0
+/install/css/table.css
+0 1 13682048 456 0 0
+/shops/ban/sp-demi.html
+0 1 13715280 32099 0 0
+/themes/caomarinagroup/js/bootstrap.min.js
+0 48 3616722773292953145 445536 0 0
+/themes/admin_default/js/notification.js
+0 2 13596720 2262 0 0
+/assets/home/slider/bg2.jpg
+1 1 13697904 3336 0 0
+/assets/home/slider/uy-tin.jpg
+1 1 13692464 7339 0 0
+/assets/shops/2021_01/z2302105983684_50278bda020e8aa0e0bc23c26f7e090a.jpg
+1 1 13713120 354662 0 0
+/uploads/news/2021_04/name-card-07.png
+1 1 13725392 363559 0 0
+/install/images/bullet2.gif
+1 1 13683120 262 0 0
+/assets/images/load_bar.gif
+1 1 13599680 308 0 0
+/assets/editors/ckeditor/plugins/video/images/icon.png
+1 2 13605280 2544 0 0
+/assets/home/slider/tin_dung_xanh_avgg.jpg
+1 1 13696848 3455 0 0
+/assets/shops/2021_01/9ddda99794556a0b334411.jpg
+1 1 13710944 87340 0 0
+/themes/caomarinagroup/default.jpg
+1 1 13698304 159973 0 0
+/shops/order/
+0 1 13715744 27386 0 0
+/assets/news/2021_04/bds_2.jpg
+1 21 24828 6175302 0 0
+/
+0 921 3531103582835179520 23972216 146 39
+/assets/home/slider/bat-dong-san-nghi-duong.jpg
+1 1 13693808 6205 0 0
+/uploads/home/slider/nha-dat.jpg
+1 1 13708112 6366 0 0
+/shops/
+0 110 13704032 3734753 1 1
+/install/images/bullet1.gif
+1 1 13682752 55 0 0
+/assets/editors/ckeditor/plugins/balloonpanel/skins/moono/balloonpanel.css
+0 2 13603136 2419 0 0
+/assets/editors/ckeditor/plugins/video/plugin.js
+0 2 13600720 2918 0 0
+/themes/default/fonts/NukeVietIcons.ttf
+0 7 13689376 24766 0 0
+/assets/home/slider/doitac1.jpg
+1 1 13696064 23226 0 0
+/assets/shops/2021_01/z2302294104490_a0173d6aee8a25a932406ea2ccefcc7c.jpg
+1 1 13712768 520938 0 0
+/assets/editors/ckeditor/styles.js
+0 2 13600592 3530 0 0
+/assets/home/slider/kentructamlinh.jpg
+1 1 13695424 418481 0 0
+/assets/home/slider/doitac3.jpg
+1 1 13695936 24126 0 0
+/assets/home/slider/bds_du_881_550_882_551.jpg
+1 1 13697376 262707 0 0
+/assets/bat-dong-san/2021_05/1340_7.jpg
+1 1 13708864 407623 0 0
+/assets/js/clipboard/clipboard.min.js
+0 1 13690960 3156 0 0
+/assets/home/slider/cam-ket-bao-hanh.jpg
+1 1 13693008 6698 0 0
+/themes/caomarinagroup/css/style.responsive.css
+0 50 1936185006086106681 20800 0 0
+/assets/home/slider/doitac5.jpg
+1 1 13695296 31651 0 0
+/themes/caomarinagroup/css/contact.css
+0 1 13707472 280 0 0
+/assets/js/select2/select2.min.js
+0 2 13606816 39913 0 0
+/assets/js/language/plupload-vi.js
+0 1 13690832 1119 0 0
+/uploads/home/slider/doitac3.jpg
+1 46 27296338920159281 1109796 0 0
+/themes/admin_default/css/style.css
+0 3 13591552 12926 0 0
+/assets/home/slider/icon-tu-van-chuyen-sau.png
+1 1 13691888 6077 0 0
+/themes/admin_default/css/users.css
+0 1 13598368 943 0 0
+/assets/kien-truc-tam-linh/2021_05/29_1.png
+1 2 13706640 2023930 0 0
+/assets/home/slider/duthuyen.jpg
+1 1 13698032 418360 0 0
+/uploads/home/slider/icon-tu-van-chuyen-sau.png
+1 2 13705488 12154 0 0
+/uploads/home/slider/dich-vu-phap-ly.jpg
+1 1 13708384 6069 0 0
+/themes/admin_default/js/siteinfo.js
+0 2 13596592 3203 0 0
+/themes/caomarinagroup/images/icons/required.png
+1 1 13708528 194 0 0
+/themes/caomarinagroup/css/custom.css
+0 49 4049068363189466421 144501 0 0
+/assets/bat-dong-san/2021_05/dsc03761-jpg-5488-1615016455.jpg
+1 1 0 394930 0 0
+/themes/admin_default/js/news.js
+0 2 13709824 9638 0 0
+/themes/default/default.jpg
+1 1 13698432 159973 0 0
+/assets/editors/ckeditor/plugins/eqneditor/codecogs/equation-embed.css
+0 2 0 1232 0 0
+/uploads/logo_214_120.png
+1 1 13704640 11276 0 0
+/assets/home/slider/bds.jpg
+1 1 13696992 316727 0 0
+/themes/caomarinagroup/js/owl.carousel.min.js
+0 47 0 513522 0 0
+/assets/editors/ckeditor/plugins/switchbar/images/maximise.gif
+1 1 0 363 0 0
+/uploads/home/slider/bds_du_881_550_882_551.jpg
+1 21 0 5516847 0 0
+/assets/editors/ckeditor/plugins/youtube/images/icon.png
+1 2 0 2330 0 0
+/install/images/current_step_icon.png
+1 1 13683520 472 0 0
+/robots.txt
+0 4 0 956 0 0
+/assets/shops/2021_01/637eea29d7eb29b570fa14.jpg
+1 1 13710800 67758 0 0
+/assets/editors/ckeditor/plugins/eqneditor/icons/eqneditor.png
+1 2 0 2186 0 0
+/assets/home/slider/icon-cam-ket-bao-hanh.png
+1 1 13692320 5804 0 0
+/uploads/home/slider/tam-nhin.jpg
+1 21 0 1161699 0 0
+/assets/js/jquery/jquery.treeview.css
+0 1 13689632 606 0 0
+/assets/js/jquery/jquery.min.js
+0 50 0 1545268 0 0
+/assets/home/slider/logo_214_120.png
+1 1 13694368 11276 0 0
+/assets/kien-truc-tam-linh/2021_05/28.png
+1 2 13706352 1575078 0 0
+/assets/shops/2021_01/z2302105908448_0ca25eb4383c791a26e128fb5c6470e6.jpg
+1 1 13714352 612907 0 0
+/shop/rss/catalog/notifystock/
+0 1 0 1848 0 0
+/assets/editors/ckeditor/plugins/googledocs/icons/googledocs.png
+1 2 0 1790 0 0
+/themes/admin_default/images/vertical_menu_bg.png
+1 2 13597680 3840 0 0
+/uploads/news/2021_04/name-card-06.png
+1 1 13725264 115879 0 0
+/test/rss/order/new/
+0 1 0 1846 0 0
+/assets/bat-dong-san/2021_04/logo-recovered-a.jpg
+1 1 13709296 324727 0 0
+/uploads/logo-khong-slogan_1_500_257.png
+1 50 0 2794400 0 0
+/shops/ban/sp-demo-19.html
+0 2 13725792 77184 0 0
+/install/images/blank_step_icon.png
+1 1 13683776 390 0 0
+/assets/kien-truc-tam-linh/2021_05/26_1.png
+1 2 13706496 2004846 0 0
+/themes/admin_default/images/admin1.png
+1 1 13598624 671 0 0
+/assets/editors/ckeditor/lang/vi.js
+0 2 13600464 15784 0 0
+/uploads/home/slider/banner-bat-dong-san.jpg
+1 25 13710080 5348025 0 0
+/assets/editors/ckeditor/plugins/switchbar/images/minimise.gif
+1 2 0 736 0 0
+/bat-dong-san/
+0 6 13707360 276379 0 0
+/themes/caomarinagroup/images/bh5.jpg
+1 2 13704768 191804 0 0
+/themes/default/images/users/no_avatar.png
+1 2 13597536 1818 0 0
+/assets/css/font-awesome.min.css
+0 51 0 358293 0 0
+/uploads/home/slider/doitac5.jpg
+1 46 0 1455946 0 0
+/assets/home/slider/dich-vu-phap-ly.jpg
+1 1 13692592 6069 0 0
+/assets/editors/ckeditor/plugins/googledocs/plugin.js
+0 2 13601440 542 0 0
+/themes/admin_default/images/admin2.png
+1 1 13598496 980 0 0
+/uploads/home/slider/icon-thiet-ke-kien-truc.png
+1 2 13705776 10918 0 0
+# End Of Table - urls
+# -sites- (monthly)
+fwdproxy-prn-052.fbsv.net
+0 1 1 30683 1 1628218018
+/
+fwdproxy-prn-007.fbsv.net
+0 1 1 131547 0 0
+-
+fwdproxy-atn-011.fbsv.net
+0 1 1 30683 1 1627817351
+/
+fwdproxy-prn-111.fbsv.net
+0 1 1 30683 1 1627806667
+/
+fwdproxy-lla-020.fbsv.net
+0 1 1 30682 1 1628286205
+/
+ec2-52-43-141-181.us-west-2.compute.amazonaws.com
+0 36 36 2613101 1 1628547498
+/
+ec2-34-211-112-20.us-west-2.compute.amazonaws.com
+0 37 36 2613101 1 1628936204
+/
+ec2-18-237-189-78.us-west-2.compute.amazonaws.com
+0 2 1 30683 1 1628248983
+/
+fwdproxy-ldc-016.fbsv.net
+0 1 1 30683 1 1628001456
+/
+ns535995.ip-139-99-8.net
+0 1 1 30529 1 1629399305
+/
+116.109.105.190
+0 3166 3061 98858267 7 1629420046
+/
+ec2-34-221-162-188.us-west-2.compute.amazonaws.com
+0 37 36 2613101 1 1628867711
+/
+192.71.30.89
+0 1 1 239 0 0
+-
+fwdproxy-rva-005.fbsv.net
+0 2 2 61366 2 1628119033
+/
+144.86.173.3
+0 2 0 2319 2 1628713564
+/
+92.118.160.5.netsystemsresearch.com
+0 3 2 61583 2 1628378228
+/
+ec2-34-219-160-211.us-west-2.compute.amazonaws.com
+0 6 3 0 3 1628897421
+/
+ns551424.ip-139-99-122.net
+0 2 1 30529 1 1629400289
+/
+fwdproxy-prn-025.fbsv.net
+0 1 1 30683 1 1628218018
+/
+fwdproxy-ldc-020.fbsv.net
+0 1 1 30683 1 1628140121
+/
+fwdproxy-ash-009.fbsv.net
+0 1 1 131547 0 0
+-
+ec2-34-222-168-253.us-west-2.compute.amazonaws.com
+0 37 36 2613101 1 1628091187
+/
+ec2-54-212-167-84.us-west-2.compute.amazonaws.com
+0 9 8 71761 1 1628617630
+/
+49.213.78.31
+0 8 8 2583272 0 0
+-
+144.86.173.89
+0 1 0 2318 1 1628840965
+/
+fwdproxy-vll-118.fbsv.net
+0 3 3 192246 2 1629418907
+/
+ec2-3-15-12-73.us-east-2.compute.amazonaws.com
+0 11 10 95488 1 1628458606
+/
+fwdproxy-vll-016.fbsv.net
+0 1 1 30683 1 1628253729
+/
+fwdproxy-vll-005.fbsv.net
+0 1 1 30683 1 1627785573
+/
+192.71.23.211
+0 2 1 33140 1 1629376398
+/
+ec2-54-191-95-219.us-west-2.compute.amazonaws.com
+0 37 36 2613101 1 1628029199
+/
+ec2-34-221-239-173.us-west-2.compute.amazonaws.com
+0 13 13 146545 2 1628287092
+/
+98.200.10.12
+0 2 2 31375 1 1628656509
+/
+ec2-34-220-85-224.us-west-2.compute.amazonaws.com
+0 6 3 0 3 1628804197
+/
+144.86.173.68
+0 1 0 2319 1 1628716242
+/
+fwdproxy-vll-117.fbsv.net
+0 1 1 34903 1 1629418903
+/shops/ban/sp-demo-20.html
+ec2-44-234-62-148.us-west-2.compute.amazonaws.com
+0 4 2 30922 1 1629393468
+/
+fwdproxy-vll-018.fbsv.net
+0 1 1 30683 1 1628270796
+/
+ns563587.ip-139-99-62.net
+0 4 2 33890 2 1629416499
+/
+ec2-54-149-122-141.us-west-2.compute.amazonaws.com
+0 2 1 0 1 1629298146
+/
+144.86.173.137
+0 1 0 2319 1 1628249849
+/
+fwdproxy-ftw-007.fbsv.net
+0 1 1 30683 1 1628366821
+/
+ec2-54-245-194-96.us-west-2.compute.amazonaws.com
+0 36 36 2613101 1 1628804202
+/
+fwdproxy-prn-026.fbsv.net
+0 1 1 131547 0 0
+-
+167.99.12.47
+0 4 0 4914 1 1628152448
+-
+server.rankmybusiness.net
+0 4 0 4914 1 1628638390
+-
+92.118.160.37.netsystemsresearch.com
+0 2 0 4637 2 1629050086
+/
+fwdproxy-ldc-120.fbsv.net
+0 1 1 30683 1 1628302907
+/
+144.86.173.94
+0 1 0 2319 1 1628837763
+/
+url.thum.io
+0 75 74 5282574 2 1628663186
+/
+192.71.12.140
+0 1 0 0 0 0
+-
+144.86.173.6
+0 1 0 0 1 1628919144
+/
+92.118.160.13.netsystemsresearch.com
+0 3 1 33219 2 1628963852
+/
+ipv4-64-246-165-140.greenhousedata.net
+0 2 0 4636 1 1628290503
+/
+ec2-54-213-12-227.us-west-2.compute.amazonaws.com
+0 37 36 2613101 1 1628249285
+/
+fwdproxy-ftw-013.fbsv.net
+0 1 1 30683 1 1628154040
+/
+fwdproxy-atn-031.fbsv.net
+0 1 1 30683 1 1628278590
+/
+107.77.104.126
+0 1 0 0 1 1629358766
+/
+fwdproxy-nao-013.fbsv.net
+0 1 1 30683 1 1627892396
+/
+static.vnpt.vn
+0 704 674 18440241 17 1629434849
+/
+92.118.160.9.netsystemsresearch.com
+0 2 0 4637 2 1628540769
+/
+fwdproxy-atn-028.fbsv.net
+0 1 1 30683 1 1627970714
+/
+ec2-35-162-70-227.us-west-2.compute.amazonaws.com
+0 2 1 0 1 1629085884
+/
+144.86.173.25
+0 1 0 2318 1 1628356671
+/
+fwdproxy-nao-004.fbsv.net
+0 1 1 30683 1 1627917890
+/
+ec2-34-218-253-44.us-west-2.compute.amazonaws.com
+0 36 36 2613101 1 1628011655
+/
+192.36.248.249
+0 1 0 0 0 0
+-
+ns547920.ip-139-99-121.net
+0 2 1 30682 1 1629325434
+/
+ec2-34-221-162-195.us-west-2.compute.amazonaws.com
+0 36 36 2613101 1 1628897425
+/
+fwdproxy-ftw-015.fbsv.net
+0 1 1 30683 1 1628352864
+/
+fwdproxy-vll-003.fbsv.net
+0 2 1 30016 1 1629418907
+/
+fwdproxy-nao-001.fbsv.net
+0 1 1 30683 1 1627853073
+/
+fwdproxy-vll-007.fbsv.net
+0 1 1 30683 1 1627785582
+/
+144.86.173.15
+0 1 1 30683 1 1629305557
+/
+jobqueue-listener.jobqueue.netcraft.com-u2f490cbaf44311eba231b03e838d6ab1u-digitalocean-2gb
+0 1 0 2318 1 1628027986
+/
+ec2-54-189-160-200.us-west-2.compute.amazonaws.com
+0 2 1 0 1 1628011651
+/
+192.71.103.173
+0 2 0 0 1 1629376396
+/
+fwdproxy-atn-019.fbsv.net
+0 1 1 30683 1 1627928885
+/
+144.86.173.18
+0 1 1 30683 1 1628267487
+/
+fwdproxy-rva-018.fbsv.net
+0 1 1 30683 1 1628067674
+/
+ec2-52-25-138-208.us-west-2.compute.amazonaws.com
+0 2 1 0 1 1627870790
+/
+fwdproxy-vll-002.fbsv.net
+0 1 1 30683 1 1627784110
+/
+fwdproxy-vll-010.fbsv.net
+0 1 1 34903 1 1629418903
+/shops/ban/sp-demo-20.html
+fwdproxy-ftw-005.fbsv.net
+0 1 1 34903 1 1629418903
+/shops/ban/sp-demo-20.html
+fwdproxy-cln-027.fbsv.net
+0 1 1 131547 0 0
+-
+144.86.173.84
+0 1 0 2319 1 1629306956
+/
+fwdproxy-ash-012.fbsv.net
+0 1 1 30683 1 1628106559
+/
+fwdproxy-frc-020.fbsv.net
+0 1 1 30683 1 1627907661
+/
+fwdproxy-prn-024.fbsv.net
+0 1 1 30683 1 1627793941
+/
+98.200.10.245
+0 3 3 59561 1 1628649765
+/
+fwdproxy-rva-023.fbsv.net
+0 2 2 61366 1 1627958638
+/
+ec2-54-203-73-198.us-west-2.compute.amazonaws.com
+0 5 3 59108 1 1628571110
+/
+fwdproxy-cln-002.fbsv.net
+0 1 1 30682 1 1628382324
+/
+91.214.124.220
+0 4 0 4914 1 1629334258
+-
+144.86.173.136
+0 2 0 4636 1 1629187612
+/
+fwdproxy-vll-026.fbsv.net
+0 2 2 166450 1 1629418896
+/shops/ban/sp-demo-20.html
+ns547930.ip-139-99-122.net
+0 1 1 31722 1 1629414135
+/shops/
+fwdproxy-nao-017.fbsv.net
+0 1 1 30683 1 1628332008
+/
+fwdproxy-nao-011.fbsv.net
+0 1 1 30683 1 1628055920
+/
+ec2-54-187-166-168.us-west-2.compute.amazonaws.com
+0 2 1 0 1 1629403307
+/
+fwdproxy-nao-116.fbsv.net
+0 1 1 30683 1 1628261180
+/
+202.211.133.34.bc.googleusercontent.com
+0 1 1 30683 1 1627927882
+/
+fwdproxy-vll-001.fbsv.net
+0 1 1 30683 1 1628345424
+/
+fwdproxy-prn-035.fbsv.net
+0 1 1 30683 1 1627985771
+/
+144.86.173.19
+0 1 0 2318 1 1628079461
+/
+mobile-107-77-237-115.mobile.att.net
+0 37 37 2641287 1 1629358773
+/
+dynamic-ip-adsl.viettel.vn
+0 83 83 7404900 2 1629322294
+/
+fwdproxy-atn-027.fbsv.net
+0 1 1 30683 1 1628320569
+/
+fwdproxy-ldc-018.fbsv.net
+0 1 1 30683 1 1628190673
+/
+fwdproxy-pnb-007.fbsv.net
+0 1 1 30683 1 1628312391
+/
+mobile-107-77-169-13.mobile.att.net
+0 37 36 2640442 1 1628644682
+/
+fwdproxy-lla-019.fbsv.net
+0 2 2 61364 2 1628293994
+/
+fwdproxy-nao-009.fbsv.net
+0 1 1 30683 1 1628065393
+/
+144.86.173.92
+0 1 0 0 1 1627995769
+/
+92.118.160.17.netsystemsresearch.com
+0 2 1 33001 2 1629095412
+/
+192.71.142.35
+0 1 1 285 0 0
+-
+98.200.11.187
+0 38 38 2671817 1 1628644518
+/
+adsl.viettel.vn
+0 10 4 123185 4 1629416809
+/
+cache.google.com
+0 21 20 276320 2 1629408972
+/admin/
+144.86.173.5
+0 1 1 30683 1 1628847474
+/
+144.86.173.91
+0 1 0 0 1 1629303461
+/
+fwdproxy-ldc-024.fbsv.net
+0 1 1 30683 1 1627882959
+/
+93.158.66.18
+0 16 0 0 1 1627884316
+-
+fwdproxy-prn-022.fbsv.net
+0 1 1 30683 1 1628240548
+/
+fwdproxy-prn-040.fbsv.net
+0 1 1 30683 1 1628391471
+/
+192.36.70.176
+0 1 0 2457 0 0
+-
+203.119.64.99
+0 2 1 30682 1 1627915341
+/
+144.86.173.155
+0 2 1 30683 2 1628714896
+/
+ec2-54-71-86-57.us-west-2.compute.amazonaws.com
+0 2 1 0 1 1628983990
+/
+191.101.217.12
+0 123 54 1294031 1 1628620797
+/
+ec2-34-216-40-79.us-west-2.compute.amazonaws.com
+0 36 36 2613101 1 1628984019
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+fwdproxy-prn-007.fbsv.net
+0 1 1 131547 0 0
+-
+116.109.105.190
+0 185 182 12087276 1 1629420046
+/
+fwdproxy-ash-009.fbsv.net
+0 1 1 131547 0 0
+-
+fwdproxy-vll-118.fbsv.net
+0 2 2 161563 1 1629418907
+/
+fwdproxy-vll-117.fbsv.net
+0 1 1 34903 1 1629418903
+/shops/ban/sp-demo-20.html
+fwdproxy-prn-026.fbsv.net
+0 1 1 131547 0 0
+-
+static.vnpt.vn
+0 87 87 8111990 1 1629434849
+/
+fwdproxy-vll-003.fbsv.net
+0 2 1 30016 1 1629418907
+/
+fwdproxy-vll-010.fbsv.net
+0 1 1 34903 1 1629418903
+/shops/ban/sp-demo-20.html
+fwdproxy-ftw-005.fbsv.net
+0 1 1 34903 1 1629418903
+/shops/ban/sp-demo-20.html
+fwdproxy-cln-027.fbsv.net
+0 1 1 131547 0 0
+-
+fwdproxy-vll-026.fbsv.net
+0 2 2 166450 1 1629418896
+/shops/ban/sp-demo-20.html
+# End Of Table - sites (daily)
+# -referrers- 
+https://caogroup.com.vn/assets/editors/ckeditor/nv.css
+0 2
+https://caogroup.com.vn/shops/Giay-bup-be/GIAY-BUP-BE-NGOI-SAO-NHAP-KHAU.html
+0 3
+http://caogroup.com.vn
+0 13
+http://caogroup.com.vn/ads.txt
+0 1
+https://caogroup.com.vn/assets/css/font-awesome.min.css
+0 43
+https://caogroup.com.vn/themes/caomarinagroup/css/style.css
+0 50
+https://caogroup.com.vn/assets/editors/ckeditor/skins/moono/editor.css
+0 3
+https://caogroup.com.vn/xay-dung/
+0 89
+http://caogroup.com.vn/humans.txt
+0 1
+https://caogroup.com.vn/install/update.php
+0 29
+https://caogroup.com.vn/shops/
+0 883
+https://caogroup.com.vn/admin/index.php
+0 2190
+https://caogroup.com.vn/themes/caomarinagroup/css/shops.css
+0 2
+https://caogroup.com.vn/shops/cart/
+0 18
+https://caogroup.com.vn/shops/ban/sp-demo-19.html
+0 8
+https://www.google.com/
+0 3
+- (Direct Request)
+0 470
+https://caogroup.com.vn/index.php
+0 28
+https://caogroup.com.vn/install/css/style.css
+0 14
+https://caogroup.com.vn/themes/admin_default/css/style.css
+0 4
+https://caogroup.com.vn/assets/js/jquery/jquery.treeview.css
+0 4
+https://caogroup.com.vn/
+0 835
+http://caogroup.com.vn/robots.txt
+0 2
+https://caogroup.com.vn/shops/ban/sp-demo-20.html
+0 15
+http://caogroup.com.vn/
+0 1
+https://caogroup.com.vn/admin/
+0 113
+https://caogroup.com.vn/themes/caomarinagroup/css/custom.css
+0 2
+http://123.30.249.141:80/
+0 2
+https://caogroup.com.vn/shops/order/
+0 3
+https://caogroup.com.vn/shops/ban/sp-demi.html
+0 5
+http://caogroup.com.vn/wp-login.php
+0 6
+https://caogroup.com.vn/bat-dong-san/
+0 39
+https://caogroup.com.vn/install/css/table.css
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_9 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Zalo iOS / 38
+0 30
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/83.0.4103.97 Safari/537.36
+0 389
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E14
+0 38
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36 _zbot
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/2W6Px8S) Chrome/8
+0 4
+Mozilla/5.0 (Linux; Android 9; SM-N976V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36 Zalo
+0 10
+Go http package
+0 2
+python-requests/2.26.0
+0 16
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/96.0.230 Chrome/90.0.4430.230 Saf
+0 41
+CheckMarkNetwork/1.0 (+http://www.checkmarknetwork.com/spider.html)
+0 11
+cortex/1.0
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+0 24
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 
+0 37
+Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36
+0 37
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/97.0.194 Chrome/91.0.4472.194 Saf
+0 678
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+0 43
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+0 9
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) _zbot
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0
+0 10
+Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 38
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+0 3165
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 54
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 _zbot
+0 6
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 19
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+0 12
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 135
+ZaloPC-win32-24v425
+0 4
+NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+0 10
+NV4
+0 24
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

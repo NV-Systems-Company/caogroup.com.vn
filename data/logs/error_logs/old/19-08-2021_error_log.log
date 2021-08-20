@@ -1,0 +1,45 @@
+[Thu, 19 Aug 2021 07:33:18 +0200] [caogroup.com.vn] [192.71.23.211] [Notice(8): Undefined index: main] [FILE: /modules/home/funcs/main.php] [LINE: 28]
+[Thu, 19 Aug 2021 06:17:48 -0400] [caogroup.com.vn] [44.234.62.148] [Notice(8): Undefined index: main] [FILE: /modules/home/funcs/main.php] [LINE: 28]
+[Thu, 19 Aug 2021 18:54:52 +0700] [caogroup.com.vn] [116.109.105.190] [Notice(8): Undefined index: main] [FILE: /modules/home/funcs/main.php] [LINE: 28]
+[Thu, 19 Aug 2021 19:55:05 +0800] [caogroup.com.vn] [139.99.8.123] [Notice(8): Undefined index: main] [FILE: /modules/home/funcs/main.php] [LINE: 28]
+[Thu, 19 Aug 2021 19:04:59 +0700] [caogroup.com.vn] [115.74.121.139] [Notice(8): Undefined index: main] [FILE: /modules/home/funcs/main.php] [LINE: 28]
+[Thu, 19 Aug 2021 20:11:29 +0800] [caogroup.com.vn] [139.99.122.87] [Notice(8): Undefined index: main] [FILE: /modules/home/funcs/main.php] [LINE: 28]
+[Thu, 19 Aug 2021 19:15:20 +0700] [caogroup.com.vn] [116.109.105.190] [Notice(8): unserialize(): Error at offset 0 of 2278 bytes] [FILE: /includes/mainfile.php] [LINE: 412]
+[Thu, 19 Aug 2021 20:01:32 +0700] [caogroup.com.vn] [116.109.105.190] [Warning(2): file_get_contents(/home/caogroup/public_html/themes//modules/shops/main.tpl): failed to open stream: No such file or directory] [FILE: /includes/xtemplate.class.php] [LINE: 1333]
+[Thu, 19 Aug 2021 09:01:47 -0400] [caogroup.com.vn] [54.187.166.168] [Notice(8): Undefined index: main] [FILE: /modules/home/funcs/main.php] [LINE: 28]
+[Thu, 19 Aug 2021 20:05:43 +0700] [caogroup.com.vn] [116.109.105.190] [Error(1): Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list' in /home/caogroup/public_html/vendor/vinades/nukeviet/Core/Database.php:528
+Stack trace:
+#0 /home/caogroup/public_html/vendor/vinades/nukeviet/Core/Database.php(528): PDO->query('SELECT group_id...')
+#1 /home/caogroup/public_html/modules/shops/admin/setting.php(35): NukeViet\Core\Database->query('SELECT group_id...')
+#2 /home/caogroup/public_html/admin/index.php(182): require('/home/caogroup/...')
+#3 {main}
+  thrown] [FILE: /vendor/vinades/nukeviet/Core/Database.php] [LINE: 528]
+[Thu, 19 Aug 2021 20:32:54 +0700] [caogroup.com.vn] [116.109.105.190] [Notice(8): Undefined index: blockid] [FILE: /modules/home/blocks/global.slider_shop.php] [LINE: 33]
+[Thu, 19 Aug 2021 20:34:17 +0700] [caogroup.com.vn] [116.109.105.190] [Run-time notices(8192): The each() function is deprecated. This message will be suppressed on further calls] [FILE: /modules/shops/admin/del_cat.php] [LINE: 74]
+[Thu, 19 Aug 2021 21:35:46 +0700] [caogroup.com.vn] [14.187.187.16] [Notice(8): Undefined index: main] [FILE: /modules/home/funcs/main.php] [LINE: 28]
+[Thu, 19 Aug 2021 21:36:17 +0700] [caogroup.com.vn] [14.187.187.16] [Error(1): Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list' in /home/caogroup/public_html/vendor/vinades/nukeviet/Core/Database.php:528
+Stack trace:
+#0 /home/caogroup/public_html/vendor/vinades/nukeviet/Core/Database.php(528): PDO->query('SELECT group_id...')
+#1 /home/caogroup/public_html/modules/shops/admin/setting.php(35): NukeViet\Core\Database->query('SELECT group_id...')
+#2 /home/caogroup/public_html/admin/index.php(182): require('/home/caogroup/...')
+#3 {main}
+  thrown] [FILE: /vendor/vinades/nukeviet/Core/Database.php] [LINE: 528]
+[Thu, 19 Aug 2021 21:49:45 +0700] [caogroup.com.vn] [14.187.187.16] [Notice(8): Undefined index: title] [FILE: /modules/shops/admin/setting.php] [LINE: 40] [TRACE:]
+#1  LINE: 182   FILE: /admin/index.php
+
+[Thu, 19 Aug 2021 22:09:24 +0700] [caogroup.com.vn] [14.187.187.16] [Notice(8): Undefined index: title] [FILE: /modules/shops/admin/setting.php] [LINE: 41] [TRACE:]
+#1  LINE: 182   FILE: /admin/index.php
+
+[Thu, 19 Aug 2021 22:22:28 +0700] [caogroup.com.vn] [14.187.187.16] [Catchable fatal error(4096): Object of class NukeViet\Core\NukeVietPDOStatement could not be converted to string] [FILE: /includes/xtemplate.class.php] [LINE: 864] [TRACE:]
+#1  LINE: 182   FILE: /admin/index.php
+#2  LINE: 271   FILE: /modules/shops/admin/setting.php
+
+[Fri, 20 Aug 2021 00:41:40 +0800] [caogroup.com.vn] [139.99.62.149] [Notice(8): Undefined index: main] [FILE: /modules/home/funcs/main.php] [LINE: 28] [TRACE:]
+#1  LINE: 358   FILE: /index.php
+
+[Thu, 19 Aug 2021 13:21:47 -0400] [caogroup.com.vn] [173.252.79.118] [Notice(8): Undefined index: main] [FILE: /modules/home/funcs/main.php] [LINE: 28] [TRACE:]
+#1  LINE: 358   FILE: /index.php
+
+[Thu, 19 Aug 2021 13:21:47 -0400] [caogroup.com.vn] [173.252.79.3] [Notice(8): Undefined index: main] [FILE: /modules/home/funcs/main.php] [LINE: 28] [TRACE:]
+#1  LINE: 358   FILE: /index.php
+

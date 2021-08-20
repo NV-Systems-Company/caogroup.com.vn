@@ -1,0 +1,18 @@
+.metismenu ul {
+    list-style: outside none none;
+    margin-top: 13px;
+    padding-left: 0;
+}
+
+.metismenu ul li{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+	border-bottom: 1px dashed #d3d3d3;
+}
+.metismenu ul li a {
+    text-decoration: none;
+    -webkit-transition: all 300ms ease-in;
+    -o-transition: all 300ms ease-in;
+    transition: all 300ms ease-in;
+	color:#999999
+}

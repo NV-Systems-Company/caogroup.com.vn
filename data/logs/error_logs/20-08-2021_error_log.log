@@ -1,0 +1,6 @@
+[Fri, 20 Aug 2021 07:11:21 +0700] [caogroup.com.vn] [14.187.187.16] [Notice(8): Undefined index: main] [FILE: /modules/home/funcs/main.php] [LINE: 28] [TRACE:]
+#1  LINE: 358   FILE: /index.php
+
+[Fri, 20 Aug 2021 10:12:36 +0700] [caogroup.com.vn] [116.109.105.190] [Notice(8): Undefined index: main] [FILE: /modules/home/funcs/main.php] [LINE: 28] [TRACE:]
+#1  LINE: 358   FILE: /index.php
+
